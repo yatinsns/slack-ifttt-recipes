@@ -1,0 +1,522 @@
+Email;Slack;Email a message to a Slack channel;slack;8900;140
+Weather;Slack;Post tomorrow's weather forecast to a Slack channel;slack;4788;66
+iOS Location;Slack;When entering or exiting an area, post to a Slack channel;slack;2419;89
+Date & Time;Slack;Post a daily reminder to a Slack channel;slack;8364;361
+Google Calendar;Slack;Before a calendar event starts, post reminder to a Slack channel;slack;4158;157
+Instagram;Slack;When you post to Instagram, share photo on Slack;slack;1379;45
+Pocket;Slack;New items tagged #slack, post to Slack channel;slack;1928;83
+Twitter;Slack;Search for something specific on Twitter and update Slack with results;hellosadie;2653;66
+Gmail;Slack;Post labeled Gmail messages into a Slack channel.;bgil;1983;51
+Google Calendar;Slack;Before a 'meeting' event starts, post a reminder to a Slack channel;slack;557;46
+Instagram;Slack;When you post to Instagram, share photo on Slack;slack;1379;45
+Stocks;Slack;Post a stock's closing price to a Slack channel;slack;885;80
+Weather;Slack;Post a daily weather report at 7:00AM in a Slack channel;phildini;1479;14
+Instagram;Slack;Post a user's new Instagram photo to Slack;chrisvilchez;1252;28
+Giphy;Slack;Search for ________ GIFs and automatically post in a Slack channel;alexander;415;23
+Todoist;Slack;Notify everyone on Slack when a new task has been created;todoist;629;36
+Space;Slack;NASA's image of the day to Slack;torsday;1244;10
+Twitter;Slack;Tweets by ...;owenbarder;2159;43
+Facebook Pages;Slack;Facebook page posts to Slack;codeowner;1202;41
+Twitter;Slack;Twitter Mentions are Sent to Slack;soaringchris;530;18
+Trello;Slack;Get Slack notifications about assigned Trello cards;tferi;558;36
+iOS Location;Slack;Announce your presence in the company to the underlings.;xeophin;218;25
+Android Location;Slack;Post to slack when I arrive at work.;roblibob;440;17
+Weather;Slack;Let the team know when it rains;djbouche;831;10
+Weather;Slack;Post to Slack if it will rain tomorrow.;yock;433;11
+Date & Time;Slack;Monthly Reminder to Slack;jryanriggins;347;22
+Space;Slack;NASA's image of the day to Slack;torsday;1244;10
+Feedly;Slack;Feedly tag to slack;hrbrmstr;225;17
+YouTube;Slack;Uploading youtube videos creates slack posts.;pingstteknik;253;14
+Twitter;Slack;Notify of new Twitter followers in Slack;eyequant_niko;349;12
+Instagram;Slack;Share photos with a specific #hashtag to Slack channel;psymansays;645;16
+Dropbox;Slack;If Dropbox update tell Slack;marabyte;407;12
+Spotify;Slack;Update a Slack channel when a new song is added to a playlist;spotify;200;16
+Android SMS;Slack;Post incoming tagged SMS messages to a Slack channel;slack;131;12
+The New York Times;Slack;Post NYTimes articles that match a keyword to a Slack channel;jeff;280;8
+GitHub;Slack;Post GitHub issues in Slack, automatically!;kev;122;15
+reddit;Slack;Share top post in /r/gifs with a Slack channel;alexander;235;8
+Yo;Slack;Yo a Slack channel;yoapp;157;14
+Twitter;Slack;Twitter favorites to Slack channel;harmenjanssen;238;8
+Todoist;Slack;Post to Slack once you complete a task in Todoist;hayfay;388;7
+Harvest;Slack;If a Harvest timer is started, then post a message to a Slack channel.;harvest;173;15
+reddit;Slack;Reddit alerts for mentions of your site (via Slack);abigailedge;166;11
+Office 365 Mail;Slack;Post a message to your Slack group when you receive an email from a specific address;microsoft;191;17
+Office 365 Calendar;Slack;Remind the team on Slack about a meeting starting soon;microsoft;154;12
+Spotify;Slack;Update a Slack channel when a new song is added to a playlist;spotify;200;16
+Flickr;Slack;When you upload a new public photo, post to a Slack channel;slack;50;9
+Instagram;Slack;When you share a new video, post to a Slack channel;slack;102;8
+Fitbit;Slack;Warn your team when you didn't get enough sleep.;djbouche;58;13
+Gmail;Slack;Forward server alerts to Slack;djbouche;112;8
+reddit;Slack;Share top post in /r/gifs with a Slack channel;alexander;235;8
+Chain;Slack;Post a message to a Slack with Today's Bitcoin price.;chain;180;7
+Space;Slack;Post to Slack when an astronaut exits space.;joshhudnall;122;6
+Feedly;Slack;Feedly save for later posts to Slack reading list channel. Share good articles with your team!;arthurmingard;117;7
+Space;Slack;Notify Slack of astronaut entering space;torsday;375;3
+Date & Time;Slack;Post a reminder in Slack;djbouche;98;16
+Flic;Slack;I'm going for lunch, who's coming? ;flic;143;13
+Numerous;Slack;If our Visitors Today from Google Analytics goes above 10,000, post a message to Slack;numerous;43;17
+Flickr;Slack;When you upload a new public photo, post to a Slack channel;slack;50;9
+Dropbox;Slack;New photos in your Public folder will post to a Slack channel;slack;51;6
+Instapaper;Slack;Post instapaper articles to slack channel once moved to a folder.;jarredbishop;76;8
+Sunlight Foundation;Slack;New Law of the Land via Slack;sunlightfoun...;56;6
+Facebook Pages;Slack;Facebook Pages to Slack;tbb4;973;29
+Square;Slack;Post to a Slack channel when a new Square payment is created;cdelargy;53;9
+Is It Christmas?;Slack;Tell my Slack about Christmas right away;isitchristmas;75;4
+Pocket;Slack;If you Pocket, save to Slack;cptshaun;90;6
+GitHub;Slack;Get Slack notifications about GitHub pull requests assigned to you;tferi;120;5
+Fitbit;Slack;Post daily FitBit Summary to Slack;cspag67;120;3
+Dropbox;Slack;New files in your Public folder will post to a Slack channel;slack;363;21
+Pocket;Slack;Add item to pocket, share on slack;nfeld9807;368;16
+Gmail;Slack;gmail label to slack channel;tejpochiraju;939;17
+Date & Time;Slack;Weekly Reminder to Slack;jryanriggins;358;20
+Automatic;Slack;Tell your team that you're running late without looking at your phone.;maxmeyers;20;9
+Todoist;Slack;Task in #todoist >> Post to #slack;wesell;311;26
+Space;Slack;Post NASA Astronomy picture of the day to Slack channel;manojanandn;94;3
+SoundCloud;Slack;If I post a new track to Soundcloud send a link and description to a specific slack channel;budelman;40;6
+DocSend;Slack;Post a message to a Slack channel when you get a new document visit;docsend;38;6
+YouTube;Slack;Share new liked videos to Slack;jamisonross;49;5
+Fitbit;Slack;Post daily FitBit Summary to Slack;cspag67;120;3
+eBay;Slack;New item from eBay search → Slack;kev;56;4
+Foursquare;Slack;Post Foursquare Checking to Slack;dshaw;32;3
+Weather;Slack;Get a weather report on slack every day;emirmkd;518;11
+Instapaper;Slack;Post Instapaper likes to Slack;heatherdiane17;28;4
+Twitter;Slack;Add Tweets by a specific Twitter user to a Slack channel;hajourneaux;547;16
+Instagram;Slack;Post tagged Instagram photos into Slack Channel;natanaelmaia;372;14
+Trello;Slack;Post new Trello cards to Slack;djbouche;282;11
+GitHub;Slack;Notify Slack of your new Github Repos;tilap;20;6
+Twitter;Slack;Post Tweets with a Specified Hashtag to a Slack Channel;goodlaura;435;10
+Android Location;Slack;Post to a Slack channel when entering or exiting a location;glindseyuico;58;3
+Numerous;Slack;10 minutes before the next SpaceX launch, post a message to Slack.;numerous;22;6
+RescueTime;Slack;If a RescueTime alert is triggered, post a note about it in Slack;rescuetime;27;4
+Automatic;Slack;Post to slack when I park near work;automatic;15;4
+GitHub;Slack;Post GitHub issues to Slack;mikesech;94;19
+Blogger;Slack;                 birth of Cool;bladerunner7723;42;2
+Space;Slack;[Slack]Seasonal changes in Mars;vaidy;17;2
+Weather;Slack;Slack message if snow tomorrow;manojanandn;174;6
+Harvest;Slack;If #Harvest timer stopped, then post a message to a #Slack channel;joshminnie;54;2
+Inoreader;Slack;Broadcast from Inoreader to a Slack channel;inoreader;34;2
+Twitter;Slack;Post Tweets with a Specified Hashtag to a Slack Channel;goodlaura;435;10
+Amazon Alexa;Slack;Add Item to Echo, post List to Slackbot;robocoonie;53;2
+Trello;Slack;Slack Notification when New Trello Card is Assigned to Me;steve86;111;15
+RescueTime;Slack;Post a 'do-not-disturb' message to a Slack channel when a FocusTime session starts;rescuetime;9;5
+Medium;Slack;Share your favorite Medium articles on a slack channel;nettofarah;25;2
+Netatmo Weather Station;Slack;If CO2 rises above 250 ppm, tell the office to evacuate;kev;13;4
+Foursquare;Slack;Check in and share a photo with your team;djbouche;7;4
+Digg;Slack;Post you diggs to your team room;linden;10;4
+Dropbox;Slack;Upload files to Slack using Dropbox;seanzhu;271;18
+iOS Location;Slack;Announce my arrival!;devin;109;8
+Netatmo Weather Station;Slack;If there's too much noise, post a 'SHUT UP!' message to Slack.;chriswaalberg;5;7
+Manything;Slack;Alert your team about any unexpected motion;linden;9;5
+Space;Slack;[Slack]Seasonal changes in Mars;vaidy;17;2
+reddit;Slack;Post new mentions about your company to a Slack channel;thekodols;160;7
+Epicurious;Slack;Share new healthy recipes to a Slack channel;psymansays;9;3
+Office 365 Contacts;Slack;Share in a Slack channel when you add a new contact;microsoft;5;5
+Vimeo;Slack;new Vimeo Video, Post to SLACK;lacydev;17;2
+Foursquare;Slack;Check in and share a photo with your team;djbouche;7;4
+ESPN;Slack;Texas Rangers in-game updates to a Slack chanel #GoRangers;alexander;18;1
+Space;Slack;Post to Slack when an astronaut enters space.;joshhudnall;119;3
+Beeminder;Slack;Announce it on Slack if you're about to derail a goal;beeminder;9;2
+RescueTime;Slack;Post new daily highlights to Slack;rescuetime;4;4
+Envoy;Slack;If a visitor signs in, post a message to a Slack channel. ;signwithenvoy;26;1
+Instagram;Slack;IF Instagram post by $username, THEN Share on a Slack Channel.;flalaskimusic;165;6
+Email;Slack;Emails with #tagged subject post to a designated Slack channel;brucegallion;132;4
+Vimeo;Slack;Post liked Vimeo videos to a Slack channel;cdubz;8;2
+Todoist;Slack;Todois Label to Slack;gonk_;11;2
+Android Photos;Slack;Screenshot on Phone --> Slack;renishkm;7;2
+SoundCloud;Slack;SoundCloud favs post to a Slack channel;alexander;36;4
+Instapaper;Slack;Post Instapaper links to Slack for your team's enjoyment;kev;30;6
+Pocket;Slack;Tag items with 'slack' to post in Slack for your team's enjoyment;kev;168;10
+Twitter;Slack;specific user tweets to slack channel;kyohsuke;253;7
+DocSend;Slack;Post a message to a Slack channel when anyone reads through 100% of any document;docsend;4;2
+Instapaper;Slack;Post new Instapaper comments to a Slack channel;instapaper;6;2
+Misfit;Slack;Ask a Slack channel if they want coffee, too #triplepress;misfit;4;2
+RescueTime;Slack;Post an 'all clear' message to Slack when a FocusTime session finishes;rescuetime;6;2
+Date & Time;Slack;Happy Birthday Slack Message;bsencore;80;4
+Ring;Slack;Tell the #general channel when someone's at the door;ring_labs;25;1
+Concur;Slack;If trip ended post message to Slack;concur;8;1
+Tesco;Slack;Send price changes to slack channel;pablocoberly;3;3
+Todoist;Beeminder;Get *more* things done with Todoist+Beeminder (like Karma, but it bites if you slack off :);afcuttin;19;7
+Todoist;Slack;Post new task to Slack;viticci;75;5
+Weebly;Slack;Post to a Slack channel if someone submits a form on your website;weebly;6;1
+Todoist;Slack;Task completed in Todoist > Post to Slack;m_burst;41;2
+Misfit;Slack;Ask a Slack channel if they want coffee, too #doublepress;misfit;4;1
+Genius;Slack;Post your Genius annotations on web pages to a Slack channel;genius;2;2
+Twitter;Slack;Use Twitter Advanced Search to post to Slack Channel;dbsooner;143;8
+Evernote;Slack;Manage & Share Ideas;marcovolpato;56;3
+500px;Slack;Your 500px stream to Slack;hazi;5;1
+Neurio;Slack;Post to a Slack channel to see if the kids are home;neurio;3;3
+Ivideon;Slack;If Camera went offline, then post a message to a Slack channel;oco_camera;6;1
+Concur;Slack;If trip ended post message to Slack;concur;8;1
+GitHub;Slack;Let the team know about a new PR;nightlynexus;33;4
+Feedly;Slack;Publish tagged feedly posts to channel or direct slack message;hjklol;68;1
+Google Calendar;Slack;Auto post your teammates' birthdays in a Slack channel;operations_a...;60;4
+Weebly;Slack;Post to a Slack channel if someone makes a comment on your website;weebly;1;3
+Qapital;Slack;Get a slack cheer when you save toward your vacation;qapital;2;1
+Trello;Slack;Post a note in a private Slack room when you're assigned a card on Trello;charliepark;65;13
+Amazon Alexa;Slack;Add Amazon Alex To Do's to #slack ;wesell;8;2
+Instagram;Slack;Hashtag from Instagram to a Slack Channel;websuccess;62;3
+Ivideon;Slack;If Camera went offline, then post a message to a Slack channel;oco_camera;6;1
+Netatmo Weather Station;Slack;Temperature rises above XX° → Slack Channel;dk0ch;2;1
+Digg;Slack;Texas Rangers stories from Digg post to a Slack channel;alexander;1;1
+Android SMS;Slack;Log outgoing SMS to Slack;ericbezine;17;2
+Twitter;Slack;Tweet to Slack Channel with Link Preview;hejhops;100;3
+DocSend;Slack;Post a message to a Slack channel when you get a new visit to a specific document;docsend;1;1
+Chain;Slack;Today's Bitcoin price to a Slack channel;crenel84;10;1
+Gmail;Slack;Post new comment in Jira to a Slack channel;guidoh;70;6
+Envoy;Slack;If a visitor signs out with Envoy, then post to a Slack channel. ;signwithenvoy;3;1
+Amazon Alexa;Slack;Add Amazon Alex To Do's to #slack ;wesell;8;2
+ESPN;Slack;Post final score to Slack;shishamin;92;0
+Home Depot;Slack;Nofity Price Change;peteralberto;30;1
+Trello;Slack;notify users when cards are moved;jpellizzi1;63;1
+Office 365 Calendar;Slack;Post calendar reminders to Slack;tneilen;9;1
+reddit;Slack;SubReddit Sharearcheage on Slack;benftwc;15;0
+Twitter;Slack;Heroku status in Slack;tylerpearson;20;1
+Kyber calendars, todos & reminders;Slack;Announce on #Slack whenever you complete something;kyberapp;13;0
+Todoist;Slack;Shared Todoist project to Slack;viticci;24;2
+Bttn;Slack;Auto-post to Slack when bt.tn is pressed;n1colsc;26;0
+reddit;Slack;Destiny - Xur Weekly Delivery Thread to Slack;wonhung;10;2
+Instapaper;Slack;Instapaper Likes -> Slack Channel;jkleske;2;1
+ESPN;Slack;Post final score to Slack;shishamin;92;0
+Craigslist;Slack;Post new craigslist search results to slack;ackbarr;24;0
+Twitter;Slack;Location Slack;aschatria;4;0
+Tumblr;Slack;Bonjour Madame sur Slack;nozprod;5;0
+Fitbit;Slack;Let my coworkers know I might be late to work; I only got less than ____ hours of sleep last night;kyledehovitz;4;1
+Gmail;Slack;If we get an UP / DOWN alert for our website, post it to Slack.;charliepark;53;4
+Twitter;Slack;Heroku status in Slack;tylerpearson;20;1
+Date & Time;Slack;Remind your team to submit their timesheets;ericdot;56;2
+Kyber calendars, todos & reminders;Slack;Announce your #accomplishments in detail on #Slack;kyberapp;6;1
+Date & Time;Slack;If Time then Slack reminder with @channel;rbediner;20;2
+Twitter;Slack;Tracking a twitter hashtag and printing the event on a Slack channel;jorgemariozu...;43;1
+Date & Time;Slack;Scheduled Slack Messages;nateliason;16;3
+UP by Jawbone;Slack;Post your step achievement in a slack channel. ;circleview;16;0
+Amazon Alexa;Slack;Alexa, I'm running late (slack);andrewjmatheny;7;0
+Trello;Slack;Trello List > Slack;ithacan;50;1
+Harvest;Slack;Harvest Creation to Slack;ryan1451875187;4;0
+eBay;Slack;Finding that perfect Neo Geo cabinet for the office;linden;1;3
+Gmail;Slack;If we get an UP / DOWN alert for our website, post it to Slack.;charliepark;53;4
+Nike+;Slack;Post your weekly NikeFuel accomplishments to a Slack channel;alexander;4;0
+Date & Time;Slack;Weekly reminder in slack channel;walking_fishy;18;4
+U.S. Independence Day;Slack;Wish people on Slack a Happy 4th of July;psymansays;6;0
+Instagram;Slack;If new photo by anyone in area, then post a message to a Slack channel;mikeychives;7;0
+Twitter;Slack;If Tweet from @username with #hashtag post to Slack;troyholden;18;2
+Date & Time;Slack;Reminder to Log Hours before Lunchtime;ndejesus;3;1
+Fitbit;Slack;If daily step goal achieved, then post a message to a Slack channel;troyholden;9;0
+Office 365 Mail;Slack;Publishing High Priority Emails to Slack Channel;andrewamason;2;0
+reddit;Slack;New Hot Post to Slack;tobiasrogers;22;0
+Gmail;Slack;Post Google calander alerts to slack;grace_slackbot;14;1
+Inoreader;Slack;Inoreader to Slack;rainbowwillis;2;0
+Google Calendar;Slack;cal -- slack;aliza2;6;0
+SIGNUL Beacon;Slack;Let Slack know when you've arrived at work;signulbeacon;2;0
+Wikipedia;Slack;If article of the day, then post a message to a Slack channel;brandonshowers;4;0
+Weather;Slack;Weather Forecasts to Slack;dany23;7;0
+Tumblr;Slack;[MDS] New Submission to Slack;mydiabetesse...;10;0
+Android Battery;Slack;Android battery warning to Slack;tobiasstahl;1;0
+Android Device;Slack;At Diode Slack Updater;joemckibben;2;0
+Stocks;Slack;stock to slack;alphabetics;7;0
+MESH;Slack;Post a message to a Slack channel when the door is opened;sugawara1988;4;0
+WordPress;Slack;WordPress -> Slack;mattmoak;2;0
+Nike+;Slack;Post your weekly runs goal to a Slack channel;alexander;2;0
+Sighthound Video;Slack;Post message to Slack channel when a person is detected by Sighthound;sighthound;5;0
+Spotify;Slack;Spotify song saves to Slack channel;adamspain;14;0
+Gmail;Slack;If GMAIL arrives post to Slack;sportsmole;87;0
+Android SMS;Slack;Slack - Notify Water;kg_mountmado...;1;0
+Weather;Slack;Weather Forecasts to Slack;dany23;7;0
+Giphy;Slack;Post trending gifs on Giphy to Slack;infinitiesloop;10;0
+Yo Status;Slack;Share your Yo Status updates on Slack;orarbel;1;0
+Email;Slack;email to slack rjs;sica2;16;0
+reddit;Slack;Publish Top Subreddit Posts to Slack Channel;triphappy;29;0
+Gmail;Slack;Gmail -> Slack;erickcechelero;5;0
+Office 365 Mail;Slack;Emails from X to Slack;paddymcc;7;0
+Instapaper;Slack;Put article in Instapaper folder, post it to Slack channel.;robattrell;2;1
+Twitter;Slack;Favorite Twitters posted into Slack Channel :);yellowcub;5;0
+Gmail;Slack;Gmail label to Slack channel;opmrsw;14;1
+Skylark;Slack;When someone leaves the office, notify a Slack channel;skylarkapp;1;0
+D-Link Motion Sensor;Slack;If motion detected, post a message to a Slack channel;dlink;1;0
+Android SMS;Slack;sms to slack;omskhipster;7;0
+Gmail;Slack;printer slack;greg1439831620;1;0
+iOS Reminders;Slack;If iOS reminder complete in a list, post message in Slack channel;carcaussa;2;0
+Evernote;Slack;Share a tagged #Evernote to a #Slack channel;chi_ps;9;0
+SoundCloud;Slack;Post SoundCloud likes to Slack;nuclearfishin;12;0
+Facebook Pages;Slack;Facebook to Slack integration;munichsiggraph;11;0
+Instapaper;Slack;If I save a story to read later in Future Chat folder, send the link to Slack.;robattrell;1;1
+Harvest;Slack;Harvest to Slack Timer;alisufyan95;2;0
+Evernote;Slack;Evernote to Slack Be Like...;drewkeatts;7;0
+Gmail;Slack;Basecamp to Slack;accounts1454...;20;0
+Skylark;Slack;When someone leaves the office, notify a Slack channel;skylarkapp;1;0
+D-Link Water Sensor;Slack;If water sensor detects water, post message to Slack;dlink;3;0
+Trello;Slack;Trello to Slack Notification;coltondemeyer;8;0
+Gmail;Slack;gmail to slack ;memorablepla...;7;0
+Email;Slack;Email to Slack;mgrubbm;11;0
+YouTube;Slack;Post new Youtube videos to a slack channel;daytonmills;7;0
+Google Calendar;Slack;Turn on DND in Slack when a Meeting Starts;torrainewill...;8;0
+Evernote;Slack;Share a tagged #Evernote to a #Slack channel;chi_ps;9;0
+Pocket;Slack;pocket tagged pivotal to Slack #reading-room;tsaleh;2;1
+Medium;Slack;Send Medium articles you recommend to a Slack channel;juzmcmuz;5;0
+Pocket;Slack;Digitalia Pocket Slack;micheledm;2;0
+Pocket;Slack;pocket to slack;danaddrskd;1;0
+Gmail;Slack;gmail to slack channel;zarinahagnew;14;0
+Trello;Slack;Assigned Trello Cards to Slack;tobiasrogers;7;0
+Twitter;Slack;[MDS] Twitter Replies to Slack;mydiabetesse...;2;0
+Instagram;Slack;instagram to slack;juusokaarivfx;5;0
+Google Calendar;Slack;Turn on DND in Slack when a Meeting Starts;torrainewill...;8;0
+Kyber calendars, todos & reminders;Slack;Kyber Task Completed Posted to Slack Channel to Completion Time;hjelis;8;0
+Gmail;Slack;mumayank gmail slack 2;mumayank;0;1
+Facebook Pages;Slack;Photo post FB -- Slack Social-OUT;cmacleod1;2;0
+Pocket;Slack;pocket tagged pivotal to Slack #reading-room;tsaleh;2;1
+Gmail;Slack;Slack labelled email redirect;autoreply24x7;7;0
+RescueTime;Slack;Post RescueTime summary to Slack;kathyreid;1;0
+YouTube;Slack;Push liked video on YouTube to Slack chanel;danielsitek;6;0
+Trello;Slack;Assigned Trello Cards to Slack;tobiasrogers;7;0
+Twitter;Slack;Birthdays mentioned on slack;kfrias;1;0
+Date & Time;Slack;Slack Daily Stand-up;flovilmart;2;0
+Dropbox;Slack;TowerFall Replay -> Slack Channel;zecmo;1;0
+Weather;Slack;Post weather to Slack channel;jasongozias;3;0
+Feedly;Slack;feedly category to slack channel;koba_prv;9;0
+Gmail;Slack;Gmail to Slack;referralmd;3;0
+Spotify;Slack;Share saved tracks to slack;critic81;3;0
+Google Calendar;Slack;Google Appointments Post to Slack Channel;bethanymullins;12;0
+Evernote;Slack;Evernote Notebook update in Slack Channel;jaselibertas;9;0
+Gmail;Slack;Asana to slack reminders;klare1;2;0
+Pocket;Slack;Pocket to Slack;vamosume;0;0
+Gmail;Slack;Email to Slack;gytiab;3;0
+Email;Slack;SVN Slack integration;alexr3;1;0
+Android Phone Call;Slack;Missed Call to Slack: Cross Device Notification;kireetivarma;1;0
+Feedly;Slack;feedly category to slack channel;koba_prv;9;0
+Gmail;Slack;Provider News Gmail Slack;andreasquauke;10;0
+Gmail;Slack;Client emails to slack;noraconrad;0;0
+Fitbit;Slack;Fitbit Stats to Slack;noraconrad;0;0
+Google Calendar;Slack;Event Reminder to Slack;noraconrad;0;0
+Date & Time;Slack;Slack Config Check;rallo;8;0
+Android Location;Slack;Post to slack when entered in office;rahulp;3;0
+Date & Time;Slack;Marmita diária pro Slack;lucasbsousa;3;0
+Instagram;Slack;NEW!! POST!! INSTAGRAM!! TO!! SLACK!!;hazi;3;0
+Gmail;Slack;Publish to Slack;jlagarde2;1;0
+Gmail;Slack;Asana to slack reminders;klare1;2;0
+Gmail;Slack;mumayank gmail slack;mumayank;0;0
+iSmartAlarm;Slack;If Smart Alarm Motion sensor is Triggered Then post a message to a Slack Channel | You-Start.it;youstart;1;0
+Gmail;Slack;Vodafone Gmail - Slack;andreasquauke;0;0
+Date & Time;Slack;Post to Slack;david1460506110;0;0
+Fitbit;Slack;Fitbit Stats to Slack;noraconrad;0;0
+Google Calendar;Slack;Post a reminder to a Slack channel, trigger is @ and the key word behind;facebooklibor;36;1
+Google Calendar;Slack;Auto post your teammates' birthdays in a Slack channel;leiarollag;6;1
+Gmail;Slack;If Airbnb Instant Book then Slack notification;cereallarceny;12;1
+Pocket;Slack;Post tagged Pocket articles to Slack.;mccarrontr1ck;8;0
+Craigslist;Slack;If new post from Search URL, then post a message to a Slack channel;brandonshowers;8;0
+Gmail;Slack;Get & read new email on Slack;huytv593;13;0
+Android Device;Slack;Spacebot - Android Checkin;chrisracebike;2;1
+Dropbox;Slack;Notify new file from Dropbox in Slack;jaselibertas;14;0
+Android SMS;Slack;IF Android.Text Then Notify Slack;susarla9;1;0
+Gmail;Slack;Graftrs // Gmail-Slack notifications;thirdparty2;2;0
+iSmartAlarm;Slack;If Smart Alarm Motion sensor is Triggered Then post a message to a Slack Channel | You-Start.it;youstart;1;0
+Twitter;Slack;Your ## sent to slack;noraconrad;0;0
+Automatic;Slack;Press steering wheel button → Slack;kev;0;1
+Google Calendar;Slack;Post a reminder to a Slack channel, trigger is @ and the key word behind;facebooklibor;36;1
+Gmail;Slack;Post LinkedIn email (GMail) to Slack channel.;graisweb;3;1
+IFTTT;Slack;Standup Meeting;nikka1;3;0
+GitHub;Slack;Post customized message to Slack when pull request created;alice_liu_ap...;5;0
+Twitter;Slack;Post Twitter Mentions to Slack;tobiasrogers;0;0
+Twitter;Slack;Positivity for your Slack Team;tony_perkis666;0;0
+SoundCloud;Slack;New SoundCloud track like to Slack;spiveym;2;0
+iOS Location;Slack;オフィス出入り時にSlack投稿！;mono0926;1;1
+ESPN;Slack;Get the latest scores from your favorite team in a slack channel;jmoneyindabank;2;0
+Date & Time;Slack;Slack reminder to charge Fitbit;noraconrad;2;0
+Date & Time;Slack;Slack reminder to water plants;noraconrad;0;0
+Gmail;Slack;ChartMogul Notifications in your Slack Channel;mredwardo;19;0
+Twitter;Slack;New Apple Music Playlists sent to Slack;hrbrt;1;0
+MESH;Slack;Post a message to a Slack channel when the door is closed;sugawara1988;2;0
+Weather;Slack;Humidity Warning;samwyse42;2;0
+Spotify;Slack;Post a song to Slack when you add it to a Spotify playlist;bagleymj;7;0
+Facebook;Slack;Facebook Status;lawman508;25;0
+Evernote;Slack;Share a note with Slack channel;alexinslc;1;0
+Twitter;Slack;Show tweets that mention @... to Slack;chi_ps;2;0
+Spotify;Slack;Publish saved song in slack;andrespalmo;0;0
+Android SMS;Slack;SMS to Slack: Cross Device Notification;kireetivarma;1;0
+ESPN;Slack;Get the latest scores from your favorite team in a slack channel;jmoneyindabank;2;0
+Trello;Slack;If trello activity, post to slack;mumayank;0;1
+Instawell;Slack;Post feedback from Instawell to Slack;instawell;0;0
+YouTube;Slack;If new liked video, then post a message to a Slack channel;alisufyan95;4;0
+Twitter;Slack;New Apple Music Playlists sent to Slack;hrbrt;1;0
+Weather;Slack;Humidity level triggers update to Slack;samwyse42;0;0
+Gmail;Slack;Facebook message to Slack using Gmail;looter;1;0
+Android Device;Slack;Check into MeeseWorks HQ on Slack;meeseworks;0;0
+Medium;Slack;Favorite medium stories to slack channel;antoineo;0;0
+Pocket;Slack;Team Reading: post Pocket articles to Slack;mimurchison;0;0
+Pebblebee;Slack; Press the Stone to Slack the team;pebblebee;0;0
+Twitter;Slack;Post your liked tweets to Slack;nitishq;0;0
+Trello;Slack;Slack Direct Message  when Trello's cards assigned to me ;minsysio;11;0
+reddit;Slack;Reddit Alerts about Your Site to Slack;noraconrad;0;0
+Instawell;Slack;Post feedback from Instawell to Slack;instawell;0;0
+Google Calendar;Slack;Birthday Announcements;campusnavs;6;2
+Evernote;Slack;Publish Caribbean Chapter notes from Evernote to Slack;agargiulo1;3;0
+Gmail;Slack;Post Recipt from itunes to slack;simmmis;0;0
+Twitter;Slack;Post MTA delay tweets to slack;laundromat1;1;0
+iOS Location;Slack;Hive76 arrival message on Slack via iOS;eagleapex;0;0
+Date & Time;Slack;Post a Message to Slack, Monday Morning;wade_berlin;2;0
+Gmail;Slack;Send content updates to Slack channel;den5;0;0
+Instapaper;Slack;Team Reading: Post Instapaper articles to Slack  ;mimurchison;0;0
+Gmail;Slack;Labeled Gmail messages to Slack channel;aziz32;1;0
+Twitter;Slack;Post your liked tweets to Slack;nitishq;0;0
+Gmail;Slack;If Twitch Broadcast Starts, Post to Slack;sgrantca;2;0
+Android Phone Call;Slack;Tell people to leave me alone when I'm on a call;seanzhu;9;6
+Google Calendar;Slack;Birthday Announcements;campusnavs;6;2
+Gmail;Slack;When new email contains "pingme": trigger Slack notification;juanep;7;0
+Twitter;Slack;Spam a Slack channel when a Twitter user tweets;padthaitofuhot;5;0
+Pocket;Slack;New Saved Pocket Article to Slack;tobiasrogers;0;0
+Evernote;Slack;If a New note in Evernote then Post it in Slack Channel;vicky002;9;0
+Narro;Slack;Notify Slack of new Narro readings;narroapp;0;0
+Evernote;Slack;If a note has specific tag in Evernot, post message in Slack;carcaussa;7;0
+iOS Location;Slack;If you exit an area, post to Slack;mchristianirish;1;0
+Gmail;Slack;SickRage E-Mail Notification to Slack Channel;infamousjoeg;1;0
+Google Calendar;Slack;Schedule Announcements or Remiders to be sent to Slack Channel;torcheditor;4;0
+Android Location;Slack;Let the team send coffee orders when I'm in line at Blue Bottle;mcb;2;4
+Gmail;Slack;When new email contains "pingme": trigger Slack notification;juanep;7;0
+Weather;Slack;지정한 온도(℃)보다 높아지면 Slack알림;nativebox_gm...;4;0
+reddit;Slack;Free Game Keys will be posted to Slack;davewoody;1;0
+Skylark;Slack;When someone arrives at the office, notify a Slack channel;skylarkapp;0;0
+Evernote;Slack;If a New note in Evernote then Post it in Slack Channel;vicky002;6;0
+Surfline;Slack;Birdrock Surfs Up!;mikejnicoletti;1;0
+Android Device;Slack;Check out of MeeseWorks HQ office on Slack;meeseworks;0;0
+Evernote;Slack;If a note has specific tag in Evernot, post message in Slack;carcaussa;7;0
+Trello;Slack;Update Slack when Card Moved to Specific List;ifttt_welker...;4;0
+littleBits;Slack;bla_spam_interface_mail;mariellaweiss;1;0
+Gmail;Slack;Mail notification from Facebook (specific mail), then post Slack message;louisv2;0;0
+eBay;Slack;Oh wow, IFTTT socks for sale!;djbouche;5;4
+Automatic;Slack;Post my location to Slack when I press the Push to Talk button in my car.;automatic;0;2
+openHAB;Slack;Publish Message on Slack when value is above;openhab;0;0
+Date & Time;Slack;General Assembly Exit Tickets Posted to Slack #generalassembly;whygaard;2;0
+Stack Lighting;Slack;Post to a Slack channel when occupancy is detected;stacklighting;0;0
+Space;Slack;If an astronaut enters space, post to a slack channel.;rebeccaupworthy;0;0
+Harvest;Slack;Timer Started Post;chris1456339217;11;0
+Date & Time;Google Drive;stand up meeting for slack;theteamowo;0;0
+Android Device;Slack;Check out of MeeseWorks HQ office on Slack;meeseworks;0;0
+Google Calendar;Slack;When a new calendar event is created, post reminder to a Slack channel;vishalashah;4;0
+iOS Location;Slack;If you enter an area, post to Slack;mchristianirish;0;0
+Wink: Spotter;Slack;If the temperature drops below ___ degrees then post to a Slack channel;quirky;0;1
+Wink: Spotter;Slack;If the temperature rises above ___ degrees then post to a Slack channel;quirky;1;0
+Automatic;Slack;Post my location to Slack when I press the Push to Talk button in my car.;automatic;0;2
+DocSend;Slack;Post a message to a Slack channel when anyone reads through 100% of a specific document;docsend;0;1
+GE Appliances Cooking;Slack;Post a message to your slack team when dinner is ready;geappliances;0;1
+Numerous;Slack;If MTD Sales from Salesforce goes above $1m, then post a message to Slack;numerous;0;2
+Gmail;Slack;Notify a slack channel when you get receipts and purchase confirmations in gmail.;mejarchuleta;3;0
+Instagram;Slack;New Instagram Post from @Username into #SlackChannel;zeedotme;37;0
+Gmail;Slack;If new email in gmail is labeled slack send to #general;chrispickett;7;0
+Trello;Slack;if a card is added to a list in trello, post a message in slack;jaussmanstefano;5;0
+Spotify;Slack;Post to Slack when a song is added to a Spotify playlist;colin4ward;1;0
+iOS Location;Slack;新川崎に着いたらSlackに通知;mono0926;1;0
+IFTTT;Slack;Auto-brag about your cool shared recipes;djbouche;4;2
+Instawell;Slack;Get pinged in Slack when you receive a message from your Instawell Helper;instawell;0;0
+Instagram;Slack;New Instagram Post from @Username into #SlackChannel;zeedotme;37;0
+Gmail;Slack;Post Comcast "Your bill is ready" / bill amount to Slack channel;rghuckins;0;0
+reddit;Slack;If new top post in /r/entrepreneur, then post to Slack channel;mallierydzik;0;0
+Amazon Alexa;Kyber calendars, todos & reminders;Add a to-do on #Slack via Amazon #Alexa, thanks to Kyber for Slack.;kyberapp;0;0
+Trello;Slack;If task added to a status list then post a message to a Slack channel;minsysio;0;0
+iSmartAlarm;Slack;If an iSmart Alarm Contact Sensor is Triggered, then  message to Slack channel | You-Start.it;youstart;0;0
+Google Calendar;Slack;Before a Google calendar event starts, post a reminder to a Slack channel | You-Start.it;youstart;0;0
+WordPress;Slack;If post is published on Wordpress then post to Slack channel;christinapas...;0;0
+Gmail;Slack;Get a DM in Slack from Slackbot when @mentioned in JIRA;angellt;0;0
+Space;Slack;Post the Astronomy Picture of the Day to a Slack Channel;mrwhistler;0;0
+IFTTT;Slack;Brag to your coworkers when someone fav's one of your recipes.;maxmeyers;1;3
+IFTTT;Slack;Auto-brag about your cool shared recipes;djbouche;4;2
+Date & Time;Slack;Eat Club Reminder ;hvetras;3;0
+Twitter;Slack;Notify me when someone follows me on Twitter;ahmadassaf;3;0
+IFTTT;Slack;Standup Meeting Reminder;nikka1;2;0
+GitHub;Kyber calendars, todos & reminders;If new #Github issue assigned to you, then add a to-do on Kyber and #Slack;kyberapp;0;0
+Harvest;Slack;Timer Stopped Post;chris1456339217;5;0
+Gmail;Slack;Starred Email;mugatunes;4;0
+Harvest;Slack;cwm - harvest;terehru;2;0
+Feedly;Slack;Insufferable RSS;perna_m;3;0
+Weather;Slack;Weather Today;kaushik4;3;0
+iOS Location;Slack;Smart Life Systems | GPS Location Tracking;nectar4aces;3;0
+eBay;Slack;Somebody's selling IFTTT socks on eBay!;charliepark;1;1
+reddit;Slack;Reddit Microgrowery;mrcatnaps;2;0
+Yo;Slack;Office Checkin;vishal91;2;0
+Weather;Slack;Tomorrow's Forcast;faheem1;3;0
+Android Device;Slack;Spacebot - Android Checkout;chrisracebike;1;0
+Date & Time;Slack;Drink water reminder;drinkallthet...;1;0
+iOS Location;Slack;enter or exit Ito_building;2d3t4;2;0
+Tumblr;Slack;Tumblr do Opensanca;opensanca;1;0
+Space;Slack;Mission: Always Possible;nectar4aces;1;0
+Dropbox;Slack;DropBox_Update;ts_brown;1;1
+Amazon Alexa;Slack;Adding Sales Actions;mgrubbm;1;0
+eBay;Slack;Let the team know when cheap lightning cables are available.;djbouche;0;2
+Gmail;Slack;assign a new task to a user in a specific asana project based on new gmail search result;johnflemingcru;2;1
+reddit;Slack;Reddit says about Synereo;cmsynereo;1;0
+Gmail;Slack;NewslettersInSlack;manishtiwari;0;1
+Space;Slack;One small step...;kevin1457820454;1;0
+Twitter;Slack;Add public holiday events to a channel;officeholidays;1;1
+Trello;Slack;Cards assigned to me notification in Slackbot.;joshharcus;0;1
+Trello;Slack;Trello to Slackbot;babyballisty;8;0
+Instagram;Slack;Instagram NV;dennisericsson1;1;0
+GitHub;Slack;Pull requests from Github;volzydk;9;0
+Google Calendar;Slack;Lịch làm việc;vuquyettam;1;0
+Email;Slack;Find a bed requests;tmeyers1;2;0
+Instagram;Slack;Casa Amarela, Lisboa, Menu do Dia;nightmare_ju...;1;0
+Gmail;Slack;NewslettersInSlack;manishtiwari;0;1
+Google Calendar;Slack;Office Cleaning Roulette;nica2;1;0
+Trello;Slack;trello2slack;olavrenko89;2;0
+Trello;Slack;Notify me when a card is moved to "To be approved";petra16;2;0
+Pocket;Slack;Share articles;victoriastee...;1;0
+Dropbox;Slack;Baltic Way DropBox Note;ts_brown;1;0
+Todoist;Slack;todothenslack;david1460506110;1;0
+Weather;Slack;Weather Updates;noraconrad;1;0
+Gmail;Slack;GMAIL (INBOX);zain4;2;1
+Google Calendar;Slack;Auto post your new team members' Day1;leiarollag;1;0
+iOS Location;Slack;Picking up Andy;vlr1;1;0
+Date & Time;Slack;It's time for daily standup meeting;rramaraj;2;0
+reddit;Slack;Destiny The Game, Daily Thread;lunemann86;4;0
+Email;Slack;Find a bed requests;tmeyers1;2;0
+Todoist;Slack;Harshad compled tasks;harshadhb;9;0
+Twitter;Slack;Новости по #;mamiraimovaset;1;0
+Trello;Slack;Notify Gerard when a card is moved to be approved (Social media Calendar;petra16;1;0
+Weather;Slack;Météo Nantes;yoann1;2;0
+Google Calendar;Slack;test Forecast;greggiles;1;0
+Google Calendar;Slack;my meeting reminders;charlie14588...;1;0
+Weather;Slack;Denver Forecast;info1455243040;1;0
+Date & Time;Slack;remind office to rob xiaomi mobile phone on Tue.;zhuangya;0;0
+Trello;Slack;CLT Card Notifications;arifranklin;0;0
+Google Calendar;Slack;Tell me when a meeting starts;klare1;0;0
+Date & Time;Slack;Standup Meeting Reminder;rramaraj;2;0
+Date & Time;Slack;It's time for daily standup meeting;rramaraj;2;0
+Google Calendar;Slack;Team Meeting Reminder;kaufmandr;0;0
+Harvest;Slack;Уведомление о том, что делают коллеги;mishlaev;0;0
+Trello;Slack;Notify me when a card is moved;petra16;1;0
+Twitter;Slack;Twitter HBOPR feed;pedrosandoval;1;0
+Email;Slack;email to hipchat;smonaghan1;1;0
+Gmail;Slack;Server email;russellcodd;0;0
+Stripe;Slack;Stripe Payment Notification;noraconrad;0;0
+Date & Time;Slack;Team meeting 1 hour reminder;apurvdyd;0;0
+Date & Time;Slack;Pivot Timesheet Reminder;npachulski;0;0
+Gmail;Slack;zsdfsqdfqsdfqsdfqsdfqsdf;mjlassi;0;0
+Date & Time;Slack;Masters of the Game;apurvdyd;0;0
+Trello;Slack;Notify Gerard when a card is moved to be approved;petra16;0;0
+Gmail;Slack;eligible status;pk_statpaymd...;0;0
+GitHub;Slack;Pull requests from Github;volzydk;0;0
+GitHub;Slack;Pull requests from Github;volzydk;0;0
+Date & Time;Slack;Pinxter Skypecall;simmmis;0;0
+Date & Time;Slack;Pinxter Skypecall;simmmis;0;0
+Gmail;Slack;DCG Coffee machine;gekonn;0;0
+Stripe;Slack;Stripe Payment Notification;noraconrad;0;0
+Gmail;Slack;Labelledgmail;autoreply24x7;0;0
+Date & Time;Slack;Website Photos;morty1;1;0
+Date & Time;Slack;Team Meeting 1 hour;apurvdyd;1;0
+Date & Time;Slack;Beer o'clock;jessica79;1;0
+Date & Time;Slack;Proofread New IFS Campaigns;apurvdyd;1;0
+Date & Time;Slack;Check in reminder;surya7;1;0
+GitHub;Slack;Pull requests from Github;volzydk;0;0
+Date & Time;Slack;Pinxter Skypecall;simmmis;0;0
+Date & Time;Slack;Garaje Reminder;slack21;1;0
+YouTube;Slack;New you tube video uploaded for project stop;randwickdnph...;0;0
+Date & Time;Slack;Update Access Sheet;apurvdyd;1;0
+Date & Time;Slack;Update Access Sheet- Ej;apurvdyd;1;0
+Date & Time;Slack;Follow up reminder;kristiangund...;0;0
+Date & Time;Slack;Team meeting 1 hour reminder;apurvdyd;1;0
+Date & Time;Slack;Daily Team Checklist;apurvdyd;1;0
+Date & Time;Slack;Masters of the Game;apurvdyd;1;0
+Date & Time;Slack;Apurv Masters Game;apurvdyd;1;0
+Date & Time;Slack;Sai Masters Game;apurvdyd;1;0
+Date & Time;Slack;Raj Masters Game;apurvdyd;1;0
+iOS Location;Slack;Working in Munich Office;jfedesigns;0;0
+Date & Time;Slack;Do Your Dishes;kaitynotes;4;0
+Date & Time;Slack;Entering Cards;travisfitzpa...;1;0
+Date & Time;Slack;Beer o'clock;jessica79;1;0
+Google Calendar;Slack;Blog Reminder;hughcurran;0;0
